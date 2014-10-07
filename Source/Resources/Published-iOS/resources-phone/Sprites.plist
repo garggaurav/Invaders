@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Sprites/Shooter.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{364, 1}, {103, 63}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {103, 63}}</string>
+			<key>sourceSize</key>
+			<string>{103, 63}</string>
+		</dict>
+		<key>Sprites/background.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {229, 167}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {229, 167}}</string>
+			<key>sourceSize</key>
+			<string>{229, 167}</string>
+		</dict>
+		<key>Sprites/bullet.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 1}, {5, 19}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {5, 19}}</string>
+			<key>sourceSize</key>
+			<string>{5, 19}</string>
+		</dict>
+		<key>Sprites/spaceship.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 1}, {130, 130}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {130, 130}}</string>
+			<key>sourceSize</key>
+			<string>{130, 130}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>textureFileName</key>
+		<string>Sprites.png</string>
+	</dict>
+</dict>
+</plist>
